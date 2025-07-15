@@ -5,6 +5,8 @@
   <img src="../assets/Ibrowse.svg" style="margin: 10px;" width="80px" />
   <img src="../assets/SweepPC.svg" style="margin: 10px;" width="80px" />
 
+---
+
 **MP Software provides open-source projects that construct the future🏗️**
 
 </div>
