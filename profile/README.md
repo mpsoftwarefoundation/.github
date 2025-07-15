@@ -4,6 +4,7 @@
   <img src="../assets/George Language.svg" style="margin: 10px;" width="80px" />
   <img src="../assets/Ibrowse.svg" style="margin: 10px;" width="80px" />
   <img src="../assets/SweepPC.svg" style="margin: 10px;" width="80px" />
-</div>
 
 **MP Software provides open-source projects that construct the future🏗️**
+
+</div>
